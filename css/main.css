@@ -9,3 +9,7 @@
     padding: 10px;
     font-size: 0.5rem;
 }
+
+nav img {
+    max-width: 3%;
+}
