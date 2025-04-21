@@ -3,13 +3,13 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
-    color: white;
+    background-color: indianred;
+    color: black;
     text-align: center;
     padding: 10px;
-    font-size: 0.5rem;
+    font-size: 1rem;
 }
 
 nav img {
-    max-width: 3%;
+    max-width: 3em;
 }
