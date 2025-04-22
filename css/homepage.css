@@ -1,0 +1,25 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orangered;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+nav img {
+    max-width: 3em;
+}
+
+h1{
+    font-family: "Castellar", cursive;
+    font-size: 6em;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    font-size: .5rem;
+}
